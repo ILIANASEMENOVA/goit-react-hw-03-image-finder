@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+
 import Searchbar from './Searchbar/Searchbar';
 import ImageGallery from './ImageGallery/ImageGallery';
 import * as API from 'services/gallery-api';
